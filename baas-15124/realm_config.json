@@ -1,0 +1,8 @@
+{
+    "app_id": "baas-15124-zecnj",
+    "config_version": 20210101,
+    "name": "BAAS-15124",
+    "location": "US-VA",
+    "provider_region": "aws-us-east-1",
+    "deployment_model": "LOCAL"
+}
